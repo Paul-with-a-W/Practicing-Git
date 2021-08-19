@@ -1,0 +1,9 @@
+[core]
+  excludesfile = ~/.gitignore
+
+    *.DS_Store
+    *~
+    *.log
+    *.zip
+    *.pkg
+    *.rar
